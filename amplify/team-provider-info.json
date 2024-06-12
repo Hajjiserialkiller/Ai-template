@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gpt3-dev-c11ea-authRole",
+      "UnauthRoleArn": "arn:aws:iam::905418409112:role/amplify-gpt3-dev-c11ea-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::905418409112:role/amplify-gpt3-dev-c11ea-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-gpt3-dev-c11ea-deployment",
+      "UnauthRoleName": "amplify-gpt3-dev-c11ea-unauthRole",
+      "StackName": "amplify-gpt3-dev-c11ea",
+      "StackId": "arn:aws:cloudformation:eu-north-1:905418409112:stack/amplify-gpt3-dev-c11ea/4204a720-0f56-11ef-b3e0-0e51d7d76bd4",
+      "AmplifyAppId": "dkezo81336eeo"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
